@@ -1,0 +1,9 @@
+-- --!
+-- admin acc
+-- INSERT INTO admins (username, password, name, email)
+-- VALUES ('admin', '1234', 'Admin User', 'admin@upang.edu.ph');
+-- -->
+
+
+-- INSERT INTO admins (name, email, username, password)
+-- VALUES ('Admin Mark', 'admin@phinmaed.com', 'admin', '$2y$10$gIa1tji5uqtI5FgSZf8LXuOD5t421qhjtb0hMyfsChLVSCjTxuXhi');
